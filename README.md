@@ -1,0 +1,2 @@
+# BabysFirstSentimentAnalyzer
+This is a personal project that is still in the works. It is a Sentiment Analyzer that, I'm hoping, will learn to better analyze its given text as the program progresses. The structure for the program's dictionary is a treap that adjusts depeding on the context of usage for particular words, and the context is determined from the combined weights of the words used. The treap structure is working (although I'm sure it's not perfect yet!), but the main which will actually read and analyze text is still to come.
